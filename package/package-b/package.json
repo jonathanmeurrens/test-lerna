@@ -1,6 +1,6 @@
 {
-  "name": "@jonathanmeurrens/package-01",
-  "version": "1.0.0",
+  "name": "@jonathanmeurrens/package-02",
+  "version": "1.0.1",
   "description": "package-02",
   "main": "index.js",
   "scripts": {
