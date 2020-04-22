@@ -1,5 +1,5 @@
 {
-  "name": "@meurrensjonathan/package-01",
+  "name": "package-01",
   "version": "1.0.2-alpha.3",
   "description": "package-01",
   "main": "index.js",
@@ -8,5 +8,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "a12bd128cbc23773d2e9c224d9a6821ba0f69ad1"
+  "gitHead": "cdf3ea25971bfdc7d066046a6108f814e84aa82e"
 }
