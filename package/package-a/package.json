@@ -1,5 +1,5 @@
 {
-  "name": "package-01",
+  "name": "@jonathanmeurrens/package-01",
   "version": "1.0.2-alpha.3",
   "description": "package-01",
   "main": "index.js",
@@ -8,5 +8,12 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "cdf3ea25971bfdc7d066046a6108f814e84aa82e"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanmeurrens/test-lerna.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonathanmeurrens/test-lerna/issues"
+  },
+  "homepage": "https://github.com/jonathanmeurrens/test-lerna#readme"
 }
