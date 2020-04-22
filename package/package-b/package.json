@@ -1,5 +1,5 @@
 {
-  "name": "@jonathanmeurrens/package-02",
+  "name": "package-02",
   "version": "1.0.1",
   "description": "package-02",
   "main": "index.js",
@@ -8,5 +8,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "bb8bf3a96c072f67b6b1bffc8573dd9ef143a6fc"
+  "gitHead": "39c0780c2a73da8828455af8e96f22559b6f886d"
 }
